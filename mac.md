@@ -10,9 +10,8 @@ Now that you are all set up, it's time to learn a little more about the tools of
 3. Why do we create a branch?
 
 3A. We create branches so that comparisons with other developers can be helpful?
-4. What is the purpose of a Pull Request?
+4. What is the purpose of a Pull Request? The purpose of a pull request is so that you can get a copy of a project to use for your own without messing any other developers workspace up?
 
-4A. The purpose of a pull request is so that you can get a copy of a project to use for your own without messing any other developers workspace up?
 
 5. What is the command you can use to switch between branches? For example you are working on FIRSTNAME-LASTNAME branch and you want to switch back to main.
 5A. git checkout branchNAME

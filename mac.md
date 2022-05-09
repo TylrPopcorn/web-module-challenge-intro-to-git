@@ -6,10 +6,18 @@ Now that you are all set up, it's time to learn a little more about the tools of
 1A. Git is a Version control system. It is like a terminal that can be used to talk to different things on your computer like gitHub.
 
 2. What is the difference between Git and GitHub?
-2A. 
-3. Why do we create a branch? 
+2A. Git is like a terminal system whereas, github is a website used to sharing and comparing code.
+3. Why do we create a branch?
+3A. We create branches so that comparisons with other developers can be helpful?
 4. What is the purpose of a Pull Request?
+4A. The purpose of a pull request is so that you can get a copy of a project to use for your own without messing any other developers workspace up?
+
 5. What is the command you can use to switch between branches? For example you are working on FIRSTNAME-LASTNAME branch and you want to switch back to main.
+5A. git checkout branchNAME
+
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?
+6A. a pull request is like a list of changes made to submit to a workplace. 
 7. What is a merge conflict?
+7A. A merge conflict is a conflict between two developers might not have the same version of code.
 8. How do you resolve a merge conflict?
+8A. You could add custom code checks or use gitHub to compare codes?
